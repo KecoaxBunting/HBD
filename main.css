@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&family=Poppins:wght@400&display=swap');
+
 .pyro {
     visibility: hidden;
 }
@@ -14,11 +16,12 @@
 
 .msg {
     visibility: hidden;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     color: #FFECEF;
     font-size: 1rem;
 }
 
-.letter{
+.letter {
     visibility: hidden;
 }
