@@ -21,5 +21,5 @@ function showLetter() {
 setTimeout(showText, 7500)
 setTimeout(showFirework, 8500)
 setTimeout(showPlate, 1000)
-setTimeout(showMsg, 9000)
+setTimeout(showMsg, 10500)
 setTimeout(showLetter, 9500)
